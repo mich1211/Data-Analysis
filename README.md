@@ -1,2 +1,2 @@
 # Data-Analysis
-This file consist of a recommendation function where the user could input information such as calories,fats,etc
+Explore our website's recommendation function. Input nutrition preferences, view insightful graphs, and receive personalized food suggestions based on the latest dataset for informed dietary choices.
